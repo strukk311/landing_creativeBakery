@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Creative Bakery landing page
+- Technology stack: HTML, SASS, BEM, JS.
+- Fully responsive layout was made by using Flexbox and CSS Grid (mobiles, tablets, laptops, high screens).
+- Design of the landing page you could find [here](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-(FE)?node-id=11342%3A1117).
+- Click the link to see [DEMO](https://strukk311.github.io/landing_creativeBakery/)
